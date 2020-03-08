@@ -148,6 +148,5 @@ module.exports = function toReadable(number) {
                 return `${hundredsWord} ${hundred} ${tensWordTiilTwenty}`;
             }
         }
-
     }
 }
